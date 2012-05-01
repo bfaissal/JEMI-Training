@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.zeroturnaround.com"
+	xsi:schemaLocation="http://www.zeroturnaround.com http://www.zeroturnaround.com/alderaan/rebel-2_0.xsd">
+
+	<classpath>
+		<dir name="/Users/faissalboutaounte/Documents/netBeansProjects/ArquillianCDI/target/classes"/>
+		<dir name="/Users/faissalboutaounte/Documents/netBeansProjects/ArquillianCDI/target/test-classes"/>
+	</classpath>
+
+	<web>
+		<link target="/">
+			<dir name="/Users/faissalboutaounte/Documents/netBeansProjects/ArquillianCDI/src/main/webapp"/>
+		</link>
+	</web>
+</application>
